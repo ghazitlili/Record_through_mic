@@ -1,0 +1,17 @@
+main.c:145:10:WavProcess_HeaderUpdate	16	static
+main.c:170:10:WavProcess_HeaderInit	16	static
+main.c:257:10:WavProcess_EncInit	16	static
+main.c:286:6:PDMDecoder_Init	32	static
+main.c:316:9:AUDIO_IN_PDMToPCM	152	static
+main.c:347:5:main	48	static
+main.c:431:6:SystemClock_Config	104	static
+main.c:482:13:MX_I2S2_Init	8	static
+main.c:514:13:MX_DMA_Init	16	static
+main.c:532:13:MX_GPIO_Init	48	static
+main.c:566:6:Led_commandes	24	static
+main.c:578:6:USBH_UserProcess	16	static
+main.c:646:6:HAL_I2S_RxHalfCpltCallback	16	static
+main.c:682:6:HAL_I2S_RxCpltCallback	16	static
+main.c:719:6:StartDefaultTask	16	static
+main.c:785:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:802:6:Error_Handler	4	static
